@@ -1,12 +1,12 @@
 # Hey, I'm Zaw Lin Hein 👋  
 
 🚀 **Full-Stack Developer | Software Engineer**  
-I love turning ideas into scalable and user-friendly web apps. Skilled in **JavaScript, Golang, and FastAPI**, with experience across **frontend, backend, and database systems**.  
+I love turning ideas into scalable and user-friendly web apps. Skilled in **JavaScript**, with experience across **frontend, backend, and database systems**.  
 
 ---
 
 ## ✨ About Me  
-- 💻 Built projects using **React, Golang, FastAPI, and MongoDB**  
+- 💻 Built projects using **React, FastAPI, and MongoDB**  
 - ⚡ Hands-on with **real-time data processing, caching, and system synchronization**  
 - 🧑‍🤝‍🧑 Experienced in **collaborating with teams** and shipping production-ready features  
 - 🌱 Always learning — exploring better ways to build **scalable & efficient** software  
@@ -15,10 +15,10 @@ I love turning ideas into scalable and user-friendly web apps. Skilled in **Java
 
 ## 🛠️ Tech Stack  
 
-- **Frontend:** React, JavaScript, HTML, CSS, TailwindCSS  
-- **Backend:** Golang, FastAPI, Node.js, python  
+- **Frontend:** React, JavaScript, HTML, CSS, TailwindCSS ,Next.js
+- **Backend:** Node.js, Express.js , FastAPI, python  
 - **Database:** MongoDB, PostgreSQL  
-- **Tools:** Git, Docker, RabbitMQ
+- **Tools:** Git, Docker
 
 ---
 
