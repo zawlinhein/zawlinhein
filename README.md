@@ -26,7 +26,7 @@ I love turning ideas into scalable and user-friendly web apps. Skilled in **Java
 
 - 📧 [Email](mailto:zawlinhein14@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/zaw-lin-hein-aa93891bb/)  
-- 🌍 [GitHub](https://github.com/zawlinhein)  
+- 🌍 [Portfolio](https://zawlinhein.me/)  
 
 ---
 
